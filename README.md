@@ -7,25 +7,25 @@
 ***
 ***
 
-#### Курс Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
+### Курс Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
 1.«Типы данных. Коллекции данных» ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/Python/1.Collections))  
 2.«Функции — использование встроенных и создание собственных» ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/2.Functions))  
 
 ***
 ***
 
-#### JavaScript: современныe возможности языка ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities/JS192018014_diplom_Kosygin.pdf))
+### JavaScript: современныe возможности языка ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities/JS192018014_diplom_Kosygin.pdf))
 
 ***
 ***
 
-#### HTML-верстка: с нуля до первого макета
+### HTML-верстка: с нуля до первого макета
 [Дипломное задание](https://kosiginiv83.github.io/)
 
 ***
 ***
 
-#### JavaScript в браузере: создаем интерактивные веб-страницы
+### JavaScript в браузере: создаем интерактивные веб-страницы
 
 
 
