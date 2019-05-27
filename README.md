@@ -7,7 +7,7 @@
 ***
 ***
 
-#### Курс Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
+#### Курс Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
 1.«Типы данных. Коллекции данных» ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/Python/1.Collections))  
 2.«Функции — использование встроенных и создание собственных» ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/2.Functions))  
 
