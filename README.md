@@ -44,7 +44,7 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
 77.«Практические задачи по анализу данных» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Задачки на собеседованиях для продвинутых, с тонкостями языка» 
+77.«Задачи на собеседованиях для продвинутых, с тонкостями языка» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/Python/Graduation)  
 
