@@ -1,3 +1,7 @@
+"""
+id исследуемого пользователя вводится в файле info.json
+"""
+
 import json
 import requests
 import sys
