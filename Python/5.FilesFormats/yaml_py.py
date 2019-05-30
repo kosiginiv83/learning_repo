@@ -4,7 +4,6 @@ import yaml
 def import_data():
     with open('cook_book.yml', encoding='utf8') as f:
         dishes = yaml.load(f)
-    # pprint(dishes)
     return dishes.get('dishes')
 
 

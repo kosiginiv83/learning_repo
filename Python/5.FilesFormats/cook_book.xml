@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dishes>
+	<dish dish_name="шарлотка">
+		<ingridients ingridients_quantity="4">
+			<ingridient name="яйцо" quantity="1" measure="шт." />
+			<ingridient name="мука" quantity="50" measure="гр." />
+			<ingridient name="сахар" quantity="40" measure="гр." />
+			<ingridient name="яблоки" quantity="50" measure="гр." />
+		</ingridients>
+	</dish>
+	<dish dish_name="курица">
+		<ingridients ingridients_quantity="4">
+			<ingridient name="курица" quantity="200" measure="гр." />
+			<ingridient name="картофель" quantity="400" measure="гр." />
+			<ingridient name="масло" quantity="50" measure="мл." />
+			<ingridient name="майонез" quantity="20" measure="гр." />
+		</ingridients>
+	</dish>
+	<dish dish_name="цезарь">
+		<ingridients ingridients_quantity="5">
+			<ingridient name="салат" quantity="20" measure="гр." />
+			<ingridient name="батон" quantity="20" measure="гр." />
+			<ingridient name="масло" quantity="50" measure="мл." />
+			<ingridient name="чеснок" quantity="10" measure="гр." />
+			<ingridient name="курица" quantity="100" measure="гр." />
+		</ingridients>
+	</dish>
+</dishes>

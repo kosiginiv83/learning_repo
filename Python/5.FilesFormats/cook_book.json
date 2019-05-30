@@ -1,0 +1,81 @@
+{
+	"dishes": [
+		{"dish": "шарлотка",
+		"ingridients quantity": 4,
+		"ingridients": [
+			{
+				"ingridient name": "яйцо",
+				"quantity": 1,
+				"measure": "шт."
+			},
+			{
+				"ingridient name": "мука",
+				"quantity": 50,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "сахар",
+				"quantity": 40,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "яблоки",
+				"quantity": 50,
+				"measure": "гр."
+			}
+		]},
+		{"dish": "курица",
+		"ingridients quantity": 4,
+		"ingridients": [
+			{
+				"ingridient name": "курица",
+				"quantity": 200,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "картофель",
+				"quantity": 400,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "масло",
+				"quantity": 50,
+				"measure": "мл."
+			},
+			{
+				"ingridient name": "майонез",
+				"quantity": 20,
+				"measure": "гр."
+			}
+		]},
+		{"dish": "цезарь",
+		"ingridients quantity": 5,
+		"ingridients": [
+			{
+				"ingridient name": "салат",
+				"quantity": 20,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "батон",
+				"quantity": 20,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "масло",
+				"quantity": 50,
+				"measure": "мл."
+			},
+			{
+				"ingridient name": "чеснок",
+				"quantity": 10,
+				"measure": "гр."
+			},
+			{
+				"ingridient name": "курица",
+				"quantity": 100,
+				"measure": "гр."
+			}
+		]}
+	]
+}

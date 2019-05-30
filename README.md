@@ -18,18 +18,14 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/4.Files))  
 5.«Работа с разными форматами данных» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/5.FilesFormats))  
-77.«Работа с кодировками, русскими буквами» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Работа с папками, путями» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Вызов других программ» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Zen of Python - что должен знать каждый разработчик: PEP8 и PEP20» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Инструменты разработчика: IDE PyCharm, pip, virtualenv» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Работа с библиотекой requests, http запросы» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
+6.«Работа с кодировками, русскими буквами» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/6.Encodings))  
+7.«Работа с папками, путями» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/7.Paths))  
+8.«Вызов других программ» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/8.ExternalProgs))  
+9.«Работа с библиотекой requests, http запросы» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/9.HTTPrequests))  
 77.«Работа с API ВК, json, протокол OAuth» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
 77.«Работа с API для получения курсов валют, xml / soap» 
@@ -57,7 +53,7 @@
 ***
 
 ### HTML-верстка: с нуля до первого макета
-[Дипломное задание](https://kosiginiv83.github.io/)
+[Дипломная работа](https://kosiginiv83.github.io/)
 
 ***
 ***
