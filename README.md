@@ -26,14 +26,14 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/8.ExternalProgs))  
 9.«Работа с библиотекой requests, http запросы» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/9.HTTPrequests))  
-77.«Работа с API ВК, json, протокол OAuth» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Работа с API для получения курсов валют, xml / soap» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Классы и их применение в Python» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Работа с классами на примере API Yandex Метрика» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
+10.«Работа с API ВК, json, протокол OAuth» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/10.ApiVK))  
+11.«Работа с API для получения курсов валют, xml / soap» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/11.API))  
+12.«Классы и их применение в Python» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/12.Classes))  
+13.«Работа с классами на примере API Yandex Метрика» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/13.YaMetrics))  
 77.«Инструменты для оперативной работы с данными» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
 77.«Инструменты для визуализации и изучения данных» 
