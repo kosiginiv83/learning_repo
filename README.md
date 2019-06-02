@@ -34,12 +34,12 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/12.Classes))  
 13.«Работа с классами на примере API Yandex Метрика» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/13.YaMetrics))  
-77.«Инструменты для оперативной работы с данными» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Инструменты для визуализации и изучения данных» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
-77.«Практические задачи по анализу данных» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
+14.«Инструменты для оперативной работы с данными» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/14.DataInstr))  
+15.«Инструменты для визуализации и изучения данных» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/15.DataVisual))  
+16.«Практические задачи по анализу данных» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice))  
 77.«Задачи на собеседованиях для продвинутых, с тонкостями языка» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/Python/Graduation)  
