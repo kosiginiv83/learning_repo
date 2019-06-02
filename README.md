@@ -36,19 +36,27 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/13.YaMetrics))  
 14.«Инструменты для оперативной работы с данными» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/14.DataInstr))  
+`На github возможен баг с рендерингом jupyter notebook, в этом случае открыть задания можно по ссылке:`
+[nbviewer](https://nbviewer.jupyter.org/github/kosiginiv83/learning_repo/blob/master/Python/14.DataInstr/dz_4.1.ipynb)  
 15.«Инструменты для визуализации и изучения данных» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/15.DataVisual))  
+`На github возможен баг с рендерингом jupyter notebook, в этом случае открыть задания можно по ссылке:`
+[nbviewer](https://nbviewer.jupyter.org/github/kosiginiv83/learning_repo/blob/master/Python/15.DataVisual/dz_4.2.ipynb)  
 16.«Практические задачи по анализу данных» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice))  
-77.«Задачи на собеседованиях для продвинутых, с тонкостями языка» 
-([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/))  
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice))   
+`На github возможен баг с рендерингом jupyter notebook, в этом случае открыть задания можно по ссылкам:` 
+[v1](https://nbviewer.jupyter.org/github/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice/practice_v1.ipynb), 
+[v2](https://nbviewer.jupyter.org/github/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice/practice_v2.ipynb)  
+17.«Задачи на собеседованиях для продвинутых, с тонкостями языка» 
+([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/17.Nuance))  
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/Python/Graduation)  
 
 ***
 ***
 
 ### JavaScript: современныe возможности языка ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities/JS192018014_diplom_Kosygin.pdf))
-
+[Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities\Graduation\js-game-1.4.1)  
+`Потребуется запуск локального веб-сервера (в README к проекту - мануал по запуску проекта).`
 ***
 ***
 
