@@ -55,7 +55,7 @@
 ***
 
 ### JavaScript: современныe возможности языка ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities/JS192018014_diplom_Kosygin.pdf))
-[Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities\Graduation\js-game-1.4.1)  
+[Дипломная работа](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/Graduation/js-game-1.4.1)  
 `Потребуется запуск локального веб-сервера (в README к проекту - мануал по запуску проекта).`
 ***
 ***
