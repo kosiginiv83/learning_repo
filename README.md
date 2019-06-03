@@ -49,12 +49,48 @@
 [v2](https://nbviewer.jupyter.org/github/kosiginiv83/learning_repo/blob/master/Python/16.DataPractice/practice_v2.ipynb)  
 17.«Задачи на собеседованиях для продвинутых, с тонкостями языка» 
 ([на github](https://github.com/kosiginiv83/learning_repo/blob/master/Python/17.Nuance))  
+
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/blob/master/Python/Graduation)  
 
 ***
 ***
 
 ### JavaScript: современныe возможности языка ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/JS_Opportunities/JS192018014_diplom_Kosygin.pdf))
+1.«Переменные, числа и строки» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/1.Vars))  
+2.«Управляющие конструкции» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/2.Constructions))  
+3.«Циклы и массивы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/3.Cycles))  
+4.«Функции» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/4.Functions))  
+5.«Замыкания, область видимости, let-переменные и константы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/5.Closures))  
+6.«Объекты и контекст вызова функции» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/6.Objects))  
+77.«Дата и время, математические функции и JSON» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Прототип и конструктор объекта» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Обертки для примитивов» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Прототип и конструктор функции» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Прототип и конструктор массива, множества и справочники» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Регулярные выражения» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Создание конструктора и прототипа» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Иерархия прототипов и наследование» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Символы и итераторы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Генераторы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+77.«Асинхронные функции и промисы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/Graduation/js-game-1.4.1)  
 `Потребуется запуск локального веб-сервера (в README к проекту - мануал по запуску проекта).`
 ***
