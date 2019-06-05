@@ -71,22 +71,21 @@ items[3].amount = 4;
 var updateAmount = (product, outgo = 1) => {
 	var {name, amount} = product;
 
-  if (typeof(amount) !== 'undefined') {
-		if (amount === 0 || outgo > amount) {
-			console.log(`${name} закончился на складе.`);
-		} else if (outgo < amount) {
-			product.amount -= outgo;
-			console.log(`${name} — остаток ${product.amount} шт.`);
-		} else if (outgo === amount) {
-			product.amount -= outgo;
-			console.log(`Это был последний ${name}, вам повезло!`);
-		}
-	} else {
-		return;
+    if (typeof(amount) !== 'undefined') {
+        if (amount === 0 || outgo > amount) {
+            console.log(`${name} закончился на складе.`);
+        } else if (outgo < amount) {
+            product.amount -= outgo;
+            console.log(`${name} — остаток ${product.amount} шт.`);
+        } else if (outgo === amount) {
+            product.amount -= outgo;
+            console.log(`Это был последний ${name}, вам повезло!`);
+        }
+    } else {
+        return;
 	}
 }
 
-updateAmount(items[1], 17);
 updateAmount(items[3], 3);
 updateAmount(items[3]);
 updateAmount(items[3]);

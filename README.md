@@ -68,16 +68,16 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/5.Closures))  
 6.«Объекты и контекст вызова функции» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/6.Objects))  
-77.«Дата и время, математические функции и JSON» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Прототип и конструктор объекта» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Обертки для примитивов» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Прототип и конструктор функции» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Прототип и конструктор массива, множества и справочники» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+7.«Дата и время, математические функции и JSON» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/7.DateTime))  
+8.«Прототип и конструктор объекта» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/8.ObjectProto))  
+9.«Обертки для примитивов» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/9.Wrapper))  
+10.«Прототип и конструктор функции» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/10.FunctionProto))  
+11.«Прототип и конструктор массива, множества и справочники» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/11.ArrayProto))  
 77.«Регулярные выражения» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
 77.«Создание конструктора и прототипа» 
