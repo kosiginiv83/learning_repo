@@ -1,5 +1,5 @@
 ## Содержание
-1. [Курс Python: программирование на каждый день и сверхбыстрое прототипирование](README.md#курс-python-программирование-на-каждый-день-и-сверхбыстрое-прототипирование-диплом)  
+1. [Python: программирование на каждый день и сверхбыстрое прототипирование](README.md#курс-python-программирование-на-каждый-день-и-сверхбыстрое-прототипирование-диплом)  
 2. [JavaScript: современныe возможности языка](README.md#javascript-современныe-возможности-языка-диплом)  
 3. [HTML-верстка: с нуля до первого макета](README.md#html-верстка-с-нуля-до-первого-макета)  
 4. [JavaScript в браузере: создаем интерактивные веб-страницы](README.md#javascript-в-браузере-создаем-интерактивные-веб-страницы)  
@@ -7,7 +7,7 @@
 ***
 ***
 
-### Курс Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
+### Python: программирование на каждый день и сверхбыстрое прототипирование ([Диплом](https://github.com/kosiginiv83/learning_repo/blob/master/Python/PY82017003_diplom_Kosygin.pdf))
 1.«Типы данных. Коллекции данных» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/Python/1.Collections))  
 2.«Функции — использование встроенных и создание собственных» 
@@ -78,14 +78,14 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/10.FunctionProto))  
 11.«Прототип и конструктор массива, множества и справочники» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/11.ArrayProto))  
-77.«Регулярные выражения» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Создание конструктора и прототипа» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Иерархия прототипов и наследование» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Символы и итераторы» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+12.«Регулярные выражения» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/12.Regexp))  
+X13.«Создание конструктора и прототипа» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/13.Constructor))  
+14.«Иерархия прототипов и наследование» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/14.Inheritance))  
+15.«Символы и итераторы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/15.Symbols))  
 77.«Генераторы» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
 77.«Асинхронные функции и промисы» 
