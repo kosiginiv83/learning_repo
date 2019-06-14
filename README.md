@@ -80,16 +80,16 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/11.ArrayProto))  
 12.«Регулярные выражения» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/12.Regexp))  
-X13.«Создание конструктора и прототипа» 
+13.«Создание конструктора и прототипа» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/13.Constructor))  
 14.«Иерархия прототипов и наследование» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/14.Inheritance))  
 15.«Символы и итераторы» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/15.Symbols))  
-77.«Генераторы» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
-77.«Асинхронные функции и промисы» 
-([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/))  
+16.«Генераторы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/16.Generators))  
+X17.«Асинхронные функции и промисы» 
+([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/17.Async))  
 
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/Graduation/js-game-1.4.1)  
 `Потребуется запуск локального веб-сервера (в README к проекту - мануал по запуску проекта).`
