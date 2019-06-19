@@ -88,7 +88,7 @@
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/15.Symbols))  
 16.«Генераторы» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/16.Generators))  
-X17.«Асинхронные функции и промисы» 
+17.«Асинхронные функции и промисы» 
 ([на github](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/17.Async))  
 
 [Дипломная работа](https://github.com/kosiginiv83/learning_repo/tree/master/JS_Opportunities/Graduation/js-game-1.4.1)  
